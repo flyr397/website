@@ -1,0 +1,28 @@
+		body {
+			background-color: gold;
+		}
+		#purple	{
+			color: purple;
+			font-family: times new roman;
+			font-size: 30px;
+			text-align: center;
+		}
+		
+		.img-circle	{
+			border-radius: 100%;
+			
+		}
+		
+		div ol {
+			background-color: purple;
+			color: black;
+			border: 3px dashed white;
+			-moz-box-shadow: 0 0 0 4px purple;
+			box-shadow: 0 0 0 4px purple;
+		}
+		#royal {
+			color: purple;
+			font-size: 22px;
+			text-align: center;
+		}
+		
